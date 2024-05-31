@@ -4,6 +4,7 @@
 ![image](https://github.com/QuadrateHead/Instal-HOI4/assets/98948075/da0ff4ac-a6b0-4c58-a3a1-bbf651e15f67)
 4. Win+R -> steam://run/480 for instaling SpaceWar  
 It's all
+Game start in folder, and STEAM MUST BE RUNNING either minimized or in the background
 
 1.Zip архив с игрой https://drive.google.com/file/d/1T4Zg2RELy1CSNDy-dtXOG3F7PwJaNXbV/view?usp=drive_link  
 2.Установите файл в *Ваш диск*:\*Папку Steam*\steamapps\common  
@@ -11,3 +12,4 @@ It's all
 ![image](https://github.com/QuadrateHead/Instal-HOI4/assets/98948075/da0ff4ac-a6b0-4c58-a3a1-bbf651e15f67)
 4. Win+R -> steam://run/480 для установки SpaceWar  
 Это все
+Запустите игру в папке, и STEAM ДОЛЖЕН ЗАПУЩЕН или свёрнутым или хотя бы фоном
