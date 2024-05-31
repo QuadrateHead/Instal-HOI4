@@ -1,5 +1,5 @@
 1.Zip archive with game https://drive.google.com/file/d/1T4Zg2RELy1CSNDy-dtXOG3F7PwJaNXbV/view?usp=drive_link
-2.File install in *Your disc*:\*Steam folder*\steamapps\common
+2.File install in *Your disc*:\*Steam folder*\steamapps\common ![space]
 3. Connect hoi4.exe in folder Hoi4 to Steam. 
 ![image](https://github.com/QuadrateHead/Instal-HOI4/assets/98948075/da0ff4ac-a6b0-4c58-a3a1-bbf651e15f67)
 4. Win+R -> steam://run/480 for instaling SpaceWar
