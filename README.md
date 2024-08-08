@@ -1,3 +1,4 @@
+ГАЙД видео https://youtu.be/e3osS42pfLI?si=PaHSOs14DXEL3OKg  
 1.Zip archive with game [https://drive.google.com/file/d/1T4Zg2RELy1CSNDy-dtXOG3F7PwJaNXbV/view?usp=drive_link](https://drive.google.com/file/d/1s8qYk3zkljiUlrPlZqW22Kaur1Z4ynXE/view?usp=sharing)  
 2.File install in *Your disc*:\*Steam folder*\steamapps\common  
 3. Connect hoi4.exe in folder Hoi4 to Steam.   
